@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class SanPham {
-	 private String tenSp;
+	 	private String tenSp;
 	    private double donGia;
 	    private double giamGia;
 
